@@ -29,6 +29,7 @@ class App extends Component {
 
       return (
         <div className="App">
+          <h1>Ponk App</h1>
           <SearchBox 
           placeholder='search ponk'
           handleChange={e => this.setState({searchField: e.target.value})}
