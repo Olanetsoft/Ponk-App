@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ponk-app/static/css/main.8463f2b9.chunk.css",
+    "main.js": "/ponk-app/static/js/main.6a54ebec.chunk.js",
+    "main.js.map": "/ponk-app/static/js/main.6a54ebec.chunk.js.map",
+    "runtime-main.js": "/ponk-app/static/js/runtime-main.de2b21a9.js",
+    "runtime-main.js.map": "/ponk-app/static/js/runtime-main.de2b21a9.js.map",
+    "static/js/2.01e135a8.chunk.js": "/ponk-app/static/js/2.01e135a8.chunk.js",
+    "static/js/2.01e135a8.chunk.js.map": "/ponk-app/static/js/2.01e135a8.chunk.js.map",
+    "index.html": "/ponk-app/index.html",
+    "precache-manifest.9bcc607e63a5e500c7fe44007653304a.js": "/ponk-app/precache-manifest.9bcc607e63a5e500c7fe44007653304a.js",
+    "service-worker.js": "/ponk-app/service-worker.js",
+    "static/css/main.8463f2b9.chunk.css.map": "/ponk-app/static/css/main.8463f2b9.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de2b21a9.js",
+    "static/js/2.01e135a8.chunk.js",
+    "static/css/main.8463f2b9.chunk.css",
+    "static/js/main.6a54ebec.chunk.js"
+  ]
+}
